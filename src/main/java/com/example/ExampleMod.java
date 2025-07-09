@@ -20,5 +20,10 @@ public class ExampleMod implements ModInitializer {
 		// Proceed with mild caution.
 
 		LOGGER.info("Hello Fabric world!");
+		
+		// 命令注册已移至客户端，使用按键绑定实现
+
+
+
 	}
 }
